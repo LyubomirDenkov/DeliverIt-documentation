@@ -6,7 +6,7 @@ from all over the world. DeliverIT's customers can place orders on international
 something, and you want it to happen fast without any trouble - you have the right solution which is our application -
 DeliverIT. You have different options to track your order which the application gives you.
 ---
-                                            CITIES
+                                                     CITIES
 ---
 
 **NO AUTHORIZATION NEEDED**
@@ -28,7 +28,7 @@ DeliverIT. You have different options to track your order which the application 
 
 
 ---
-                                            COUNTRIES
+                                                     COUNTRIES
 ---
 
 
@@ -51,7 +51,7 @@ DeliverIT. You have different options to track your order which the application 
       Country by ID
 
 ---
-                                            PARCELS
+                                                     PARCELS
 ---
 
 **EMPLOYEE OPERATION**
@@ -142,7 +142,7 @@ DeliverIT. You have different options to track your order which the application 
       Deletes parcel and removes it from the shipments which the parcel is in.
 
 ---
-                                            SHIPMENTS
+                                                     SHIPMENTS
 ---
 
 **EMPLOYEE OPERATION**
@@ -247,7 +247,7 @@ DeliverIT. You have different options to track your order which the application 
       Deletes the concrete shipment.     
 
 ---
-                                            USERS
+                                                     USERS
 ---
 
 **NO AUTHORIZATION NEEDED**
@@ -364,7 +364,7 @@ DeliverIT. You have different options to track your order which the application 
       Deletes the concrete user. User with parcels cannot be deleted.
 
 ---
-                                            WAREHOUSES
+                                                     WAREHOUSES
 ---
 
 **NO AUTHORIZATION NEEDED**

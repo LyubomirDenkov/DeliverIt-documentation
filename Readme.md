@@ -1,11 +1,5 @@
 ![](ReadmeImages/DeliverIcon2.png)
 
-Link to Trello board:
-https://trello.com/b/bc0COXzA/deliverit
-
-Link to Api Documentation
-http://localhost:8080/swagger-ui.html#/
-
 This is our application which is made user-friendly, so you could place your orders on this platform  
 from all over the world. DeliverIT's customers can place orders on international shopping sites
 (like Amazon.de or eBay.com) and have their parcels delivered to the company's warehouses. If you want to order
@@ -428,8 +422,5 @@ DeliverIT. You have different options to track your order which the application 
 
       Deletes the concrete warehouse. Warehouse with parcels in it cannot be deleted.
 
----
-**DATABASE DIAGRAM**
-![](ReadmeImages/deliverit.png)
 
 

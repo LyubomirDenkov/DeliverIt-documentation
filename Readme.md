@@ -4,7 +4,7 @@ This is our application which is made user-friendly, so you could place your ord
 from all over the world. DeliverIT's customers can place orders on international shopping sites
 (like Amazon.de or eBay.com) and have their parcels delivered to the company's warehouses. If you want to order
 something, and you want it to happen fast without any trouble - you have the right solution which is our application -
-DeliverIT. You have different options to track your order which the application gives you.
+DeliverIT.
 ---
                                                      CITIES
 ---

@@ -1,3 +1,5 @@
+**This is done for study purposes**
+
 ![](ReadmeImages/DeliverIcon2.png)
 
 This is our application which is made user-friendly, so you could place your orders on this platform  

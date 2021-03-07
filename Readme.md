@@ -1,4 +1,4 @@
-                                                            **This is done for study purposes**
+                                                      This is done for study purposes
 
 ![](ReadmeImages/DeliverIcon2.png)
 

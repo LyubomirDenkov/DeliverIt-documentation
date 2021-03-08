@@ -404,7 +404,9 @@ DeliverIT.
 ---
 **EMPLOYEE OPERATION**
 
-**Post**
+**Request Body**
+
+**Put**
 - Route - /api/warehouses/warehouseID
 
       Updates the concrete warehouse.
